@@ -18,6 +18,6 @@
           <PrivateAssets>all</PrivateAssets>
           <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
-        <PackageReference Update="Moq" Version="4.20.72" />
+        <PackageReference Update="Moq" Version="4.21.0" />
     </ItemGroup>
 </Project>
